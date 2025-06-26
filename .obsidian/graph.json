@@ -1,0 +1,30 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "tag:#diary  ",
+      "color": {
+        "a": 1,
+        "rgb": 6840489
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": -0.7,
+  "nodeSizeMultiplier": 1.18037735849057,
+  "lineSizeMultiplier": 1.1957461406518,
+  "collapse-forces": false,
+  "centerStrength": 0.280078412153884,
+  "repelStrength": 1.33594707179613,
+  "linkStrength": 0.863464837049743,
+  "linkDistance": 30,
+  "scale": 0.79700689659798,
+  "close": true
+}
