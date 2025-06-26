@@ -117,7 +117,6 @@ int quickSelect(vector<int>& a, int l, int r, int k){
             return quickSelect(a, index+1, r, k - index + l - 1);
         }
     }
-
     return INT_MAX;
 }
 ```
