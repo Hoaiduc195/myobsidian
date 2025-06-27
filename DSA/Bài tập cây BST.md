@@ -9,24 +9,24 @@ Trả lời: Đáp án là $\frac{1}{n+1} \binom{2n}{n}$ (số Catalan). Nói v�
 ## Câu hỏi: The preorder traversal sequence of a binary search tree is 30, 20, 10, 15, 25, 23, 39, 35, 42. Which one of the following is the postorder traversal sequence of the same tree?
 Trả lời: Preorder là duyệt theo thứ tự NLR nên kết quả là: 15, 10, 23, 25, 20, 35, 42, 39, 30
 
-## Câu hỏi: ![[Pasted image 20250618210339.png]]
+## Câu hỏi: ![[attachments/Pasted image 20250618210339.png]]
 Trả lời: Công thức: Tổng của (số node level i * i) chia cho số node trong cây.
-![[Pasted image 20250618210527.png]]
+![[attachments/Pasted image 20250618210527.png]]
 
 
 
 ## Có thể thu được cây từ các thứ tự duyệt nào?
 Trả lời: Preorder với Postorder.
 
-## Câu hỏi: x = ? ![[Pasted image 20250618211506.png]]
+## Câu hỏi: x = ? ![[attachments/Pasted image 20250618211506.png]]
 Trả lời: ý tưởng chính để tạo cây có n nodes là chọn k-1 phần tử làm cây con bên trái và chọn n-k phần tử làm cây con bên phải (còn 1 node là node gốc). Do đó, x = n - k.
 
 ## Câu hỏi:
 Câu này tôi làm sai.
-![[Pasted image 20250618212027.png]]
+![[attachments/Pasted image 20250618212027.png]]
 
 Cách làm: Vẽ lại cây theo các bước tìm kiếm của cây BST, tìm cây có cấu trúc sai quy tắc của BST.
-![[Pasted image 20250618212136.png]]
+![[attachments/Pasted image 20250618212136.png]]
 
 
 ## Câu hỏi: Heap có 2022 node thì có bao nhiêu node lá?
@@ -43,7 +43,7 @@ Với 999 lá ở tầng cuối của cây heap. Sẽ có 998 lá là con của 
 Vậy kết quả là 12 + 999 = 1011 lá của cây heap.
 Ngoài ra, ta có công thức tính nhanh được chứng minh theo tác giả sau: <a href="https://cs.stackexchange.com/questions/841/proving-a-binary-heap-has-lceil-n-2-rceil-leaves">Proving a binary heap has ceil(n/2) leaves</a>
 
-## ![[Pasted image 20250620131850.png]]
+## ![[attachments/Pasted image 20250620131850.png]]
 Cách làm: Ta có các nhận xét, từ đó suy ra được kết quả.
 - Số đứng cuối dãy thứ tự sau luôn là node gốc => 2 là gốc => Nhìn theo dãy thứ tự giữa thì (9, 3, 1, 0, 4) sẽ nằm bên cây con trái của 2, còn (7, 6, 8, 5) sẽ nằm bên cây con phải.
 - Tiếp tục ta thấy ở trong dãy thứ tự sau 3 nằm ở cuối so với cái số cùng cây con với mình => 3 là gốc của cây con đó => Nhìn lại dãy thứ tự giữa (9) thuộc cây con trái của 3 và (1, 0, 4) thuộc cây con phải của 3.

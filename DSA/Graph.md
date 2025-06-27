@@ -3,19 +3,19 @@ Vì thi lý thuyết nên việc trình bày khá quan trọng, phần này ch�
 ## Kruskal
 *Chú ý: sắp xếp cạnh trước khi trình bày thuật toán.*
 *Thuật toán Kruskal chủ yếu được trình bày dựa vào bảng sau:*
-![[Pasted image 20250622141422.png]]
+![[attachments/Pasted image 20250622141422.png]]
 => Nên thực hành để nhớ.
 
 ## Prim 
 Thuật toán Prim được tôi minh hoạ như dưới đây:
-![[Pasted image 20250622143319.png]]
+![[attachments/Pasted image 20250622143319.png]]
 
 Các thao tác chính bao gồm: chọn đỉnh gốc, từ các đỉnh trong tập cây khung hiện có, mở các đỉnh lận cận và chọn các cạnh có trọng số nhỏ nhất. 
 *Chú ý: với cả hai thuật toán Prim và Kruskal, ta đều có thể tìm được cây khung cực đại.*
 ## Djisktra
 Độ phức tạp thuật toán: $O(E\cdot log(V))$ với E là số cạnh còn V là số đỉnh của G.
 Dựa vào nguồn tài liệu tôi kiếm được thì nên trình bày như sau:
-![[Pasted image 20250622143003.png]]
+![[attachments/Pasted image 20250622143003.png]]
 ***Chú ý: thuật toán Djisktra khác với thuật toán Prim là khi mở bất kì đỉnh mới nào cũng phải cập nhật đường đi đối với đỉnh gốc, còn thuật toán Prim chỉ cần cập nhật cạnh mà thôi.***
 
 # Thuật toán Floyd - Warshall

@@ -36,15 +36,15 @@ struct Node{
 - Độ phức tạp các thao tác tìm kiếm, chèn xoá: *O(logn)*
 ### **Các trường hợp cần xoay cây**
 **1. Lệch phải** 
-![[Pasted image 20250612210805.png]]
+![[attachments/Pasted image 20250612210805.png]]
 
 **2. Lệch trái**
-![[Pasted image 20250612210859.jpg]]
+![[attachments/Pasted image 20250612210859.jpg]]
 
 **3. Lệch trái - phải**
-![[Pasted image 20250612210934.png]]
+![[attachments/Pasted image 20250612210934.png]]
 **4. Lệch phải - trái**
-![[Pasted image 20250612210947.png]]
+![[attachments/Pasted image 20250612210947.png]]
 ____
 
 # Cây Heap
@@ -95,10 +95,10 @@ void siftDown(int a[], int n, int i){
 ```
 
 #### Cách trình bày cây Heap trong thi tự luận 
-![[Pasted image 20250620144306.png]]
+![[attachments/Pasted image 20250620144306.png]]
 
 **Đối với yêu cầu mô phỏng quá trình Sort, tôi đã trình bày như sau:**
-![[Pasted image 20250622141739.png]]
+![[attachments/Pasted image 20250622141739.png]]
 
 => Việc mô phỏng thuật toán khá dài dòng.
 # Các thuật toán liên quan

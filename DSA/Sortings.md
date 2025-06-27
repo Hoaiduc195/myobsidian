@@ -63,7 +63,7 @@ Thuật toán Radix Sort hoạt động dựa vào tính chất thứ tự của
 Do việc code thuật toán này khá phức tạp, nên tôi chỉ đề cập đến nguồn tài liệu tham khảo.
 Tham khảo nguồn dưới đây: <a href="https://duvanenko.tech.blog/2022/04/09/in-place-binary-radix-sort/#:~:text=One%20way%20to%20implement%20Radix,digit%20matches%20the%20bin%20number.">Binary Radix Sort</a>
 
-![[Pasted image 20250618103720.png]]
+![[attachments/Pasted image 20250618103720.png]]
 
 Việc cài đặt có thể liên quan đến các thao tác trên bit, có thể tham khảo ở nguồn sau: <a href="https://viblo.asia/p/thao-tac-xu-ly-bit-va-ung-dung-bit-manipulation-3kY4gxl9JAe">Bit Manipulation</a>
 

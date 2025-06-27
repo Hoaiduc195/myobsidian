@@ -7,7 +7,7 @@
 - Độ phức tạp thời gian cho các thao tác của B tree khá ổn định. (các thao tác xoá, thêm, tìm kiếm đều chỉ mất $O(logn)$.
 
 Hình dưới đây là một B Tree bậc 5:
-![[Pasted image 20250624094425.png]]
+![[attachments/Pasted image 20250624094425.png]]
 
 ###### Cây B thường được định nghĩa trong code như sau
 ```cpp
@@ -30,7 +30,7 @@ Một B Tree bậc $m$ có thể được định nghĩa giống như một cây
 - Một node không phải lá với $n-1$ khoá sẽ có n node con khác NULL.*
 
 Một tính chất khác để tính toán chiều cao của B Tree gồm n nodes:
-![[Pasted image 20250624095324.png]]
+![[attachments/Pasted image 20250624095324.png]]
 
 ## Các thao tác trong cây
 ### Tìm kiếm 
@@ -75,7 +75,7 @@ Trả lời: Số node tối đa là 5 nên bậc của cây là 6 (bằng với
 Trả lời: Chúng ta liên tục thêm các giá trị lớn hơn giá trị lớn nhất trong cây thì các node đó sẽ dồn dần về node lá phải cùng dẫn đến nhiều thao tác tách node diễn ra ở đó.
 Mô phỏng lại thao tác thêm node với dãy 1 2 3 4 5 6 7 8 9 10 thì ta thấy được số thao tác cần dùng để tách node là 5. Đây cũng chính là số thao tác tách node cần tìm.
 Kết quả của B Tree sau khi thêm dãy trên:
-![[Pasted image 20250624103143.png]]
+![[attachments/Pasted image 20250624103143.png]]
 
 
 ### Một cây B có 4 level thì nếu thêm một node vào thì số node tối đa có thể được tạo ra trong quá trình thêm này là?
