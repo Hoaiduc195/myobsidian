@@ -41,9 +41,9 @@ PS: Hiện tại thì đã chắc chắn B Tree xuất hiện trong đề thi.
 Chủ đề này hầu như không có lớp nào học, chỉ nên **đọc sơ qua**
 
 # TODO List
-- [ ] Ghi chú các nội dung ôn tập, đồng thời ôn tập qua các nội dung đó.
-- [ ] Chắt lọc các nội dung chính, quan trọng để ghi vào A4.
-- [ ] Luyện tập các thuật toán.
+- [x] Ghi chú các nội dung ôn tập, đồng thời ôn tập qua các nội dung đó.
+- [x] Chắt lọc các nội dung chính, quan trọng để ghi vào A4.
+- [x] Luyện tập các thuật toán.
 - [ ] Chuẩn bị làm dự án với thầy Đăng
 - [ ] Ngủ sớm. :]]
 

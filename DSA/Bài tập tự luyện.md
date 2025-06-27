@@ -1,12 +1,11 @@
 #dsa
-![[Pasted image 20250613083100.png]]
 
 ![[Pasted image 20250613083224.png]]
 
 ![[Pasted image 20250613083242.png]]
 
 ![[Pasted image 20250613083305.png]]
-
+![[Pasted image 20250613083100.png]]
 ![[Pasted image 20250613083313.png]]
 
 ![[Pasted image 20250613083337.png]]

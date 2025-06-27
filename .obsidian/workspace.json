@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA/Bài tập tự luyện.md",
+                "file": "VLDC1/Ôn tập vật lý đại cương.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bài tập tự luyện"
+              "title": "Ôn tập vật lý đại cương"
             }
           }
         ]
@@ -177,15 +177,21 @@
   },
   "active": "8de0ae30a072bfa0",
   "lastOpenFiles": [
-    "DSA/Graph.md",
+    "attachments/Pasted image 20250627183516.png",
+    "attachments/Pasted image 20250627183210.png",
+    "attachments/Pasted image 20250627182829.png",
+    "attachments/Pasted image 20250627182749.png",
+    "DSA/Bài tập tự luyện.md",
+    "VLDC1/Ôn tập vật lý đại cương.md",
+    "attachments/Pasted image 20250627163127.png",
+    "DSA/NỘI DUNG ÔN TẬP.md",
     "DSA/Bài tập cây BST.md",
+    "DSA/Graph.md",
     "DSA/Red Black Tree.md",
     "DSA/Sortings.md",
-    "DSA/BST và AVL.md",
     "DSA/B Tree.md",
+    "DSA/BST và AVL.md",
     "DSA/Hash Table.md",
-    "DSA/NỘI DUNG ÔN TẬP.md",
-    "DSA/Bài tập tự luyện.md",
     "Calculus2/Ôn tập cuối kì.md",
     "attachments/Pasted image 20250624103143.png",
     "attachments/Pasted image 20250624095324.png",
@@ -197,11 +203,7 @@
     "TODO/Ngắn Hạn.md",
     "attachments/Pasted image 20250622143319.png",
     "attachments/Pasted image 20250622143003.png",
-    "attachments/Pasted image 20250622141739.png",
-    "attachments/Pasted image 20250622141422.png",
-    "attachments/Pasted image 20250622141240.png",
     "attachments/len_bang.md",
-    "attachments/len_bang.png",
     "VLDC1",
     "attachments/~$TKB_HK3_2024_2025_dukien.xlsx",
     "attachments/TKB_HK3_2024_2025_dukien.xlsx",
@@ -217,8 +219,6 @@
     "Diary/n_14.03.2025.md",
     "Diary/n_20.2.2025.md",
     "Diary/d_9.2.2025.md",
-    "Diary/d_6.2.2025.md",
-    "Diary/d_7.2.2025.md",
     "Docker",
     "attachments/cau-truc-du-lieu-va-giai-thuat__ctdl-bai-tap-on - [cuuduongthancong.com].pdf",
     "attachments/tmp10.cpp",
